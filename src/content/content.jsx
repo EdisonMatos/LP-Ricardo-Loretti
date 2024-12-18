@@ -58,7 +58,7 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "Dr. Ricardo Loretti",
   email: "contato", // Email desejado pelo cliente
-  domain: "A_Definir", // Sem "www"
+  domain: "ricardoloretti.com.br", // Sem "www"
   phone: {
     ddd: "24",
     firstPart: "99226", // Apenas os 5 primeiros números (incluindo o 9)
