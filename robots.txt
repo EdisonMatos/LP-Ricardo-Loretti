@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://ricardoloretti.com.br/sitemap.xml
+Sitemap: https://ricardoloretti.com.br/sitemap.xml
