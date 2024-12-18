@@ -332,7 +332,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório",
       },
-      miniTag: "QUEM É O DR RICARDO LORETTI",
+      miniTag: "QUEM É RICARDO LORETTI",
       title: "Minha trajetória",
       subtitle:
         "Uma jornada de superação e dedicação para combater as injustiças sociais.",
@@ -384,12 +384,12 @@ const content = {
         miniTag: "MANTENHA-SE INFORMADO",
         title: "Conecte-se e acompanhe novidades e atualizações!",
         subtitle:
-          "⚖️ Fique por dentro do universo jurídico com o Dr. Ricardo Loretti nas redes sociais!",
+          "⚖️ Fique por dentro do universo jurídico com Ricardo Loretti nas redes sociais!",
         paragraph: (
           <p>
             Acompanhe nossas postagens e mantenha-se atualizado sobre as áreas
-            de atuação do Dr. Ricardo, como Direito Criminal, Família e
-            Sucessões, e mais.{" "}
+            de atuação do Ricardo, como Direito Criminal, Família e Sucessões, e
+            mais.{" "}
           </p>
         ),
       },
