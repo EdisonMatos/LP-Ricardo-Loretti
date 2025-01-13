@@ -75,8 +75,7 @@ export const infos = {
   expediente: (
     <div>
       <p>Horário de expediente:</p>
-      <p>Segunda a Sexta-feira</p>
-      <p>Das 9h às 18h</p>
+      <p>Atendimento 24h</p>
     </div>
   ),
   obs: <span className="italic">A_Definir</span>,
@@ -104,7 +103,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO EM RESENDE - RJ",
+      miniTag: "ADVOGADO CRIMINAL EM RESENDE - RJ",
       title: (
         <h1 className="mb-[16px]">
           Sua defesa
@@ -168,7 +167,8 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Criminal",
-        subtitle: "Defesa estratégica em processos e investigações.",
+        subtitle:
+          "Defesa estratégica e personalizada em processos e investigações, garantindo uma abordagem focada nos melhores resultados para cada caso.",
         description: (
           <div>
             A_Definir
@@ -203,8 +203,9 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Família e Sucessões",
-        subtitle: "Soluções para divórcios, guarda e inventários.",
+        title: "Delegacia de Polícia 24h",
+        subtitle:
+          "Assistência jurídica imediata em casos de prisão e suporte para vítimas e medidas protetivas",
         description: (
           <div>
             A_Definir
@@ -239,8 +240,9 @@ const content = {
       },
       card3: {
         img: featuresImg3,
-        title: "Previdenciário e Trabalhista",
-        subtitle: "Garantia de benefícios e direitos no trabalho.",
+        title: "Processos criminais",
+        subtitle:
+          "Defesa estratégica em processos criminais, audiências e recursos. Requerimento de liberdade e revogação de medidas cautelares.",
         description: (
           <div>
             A_Definir <br />
@@ -273,8 +275,9 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Consumidor e Regularização de Imóveis",
-        subtitle: "Consultoria para acordos, imóveis e consumo.",
+        title: "Execução Penal",
+        subtitle:
+          "Acompanhamento de progressão de regime, livramento condicional, defesa em faltas disciplinares e atendimento em presídios.",
         description: (
           <div>
             A_Definir
@@ -375,7 +378,6 @@ const content = {
       ),
       ctaButtonAriaLabel: "Botão para entrar em contato",
       ctaButtonText: "Entre em contato",
-
       aboutSocial: {
         img: {
           img: aboutSocialImg,
@@ -388,8 +390,9 @@ const content = {
         paragraph: (
           <p>
             Acompanhe nossas postagens e mantenha-se atualizado sobre as áreas
-            de atuação do Ricardo, como Direito Criminal, Família e Sucessões, e
-            mais.{" "}
+            de expertise do Dr. Ricardo, o Direito Criminal. <br />
+            Aproveite a chance de transformar conhecimento em poder para
+            garantir a proteção dos seus direitos.
           </p>
         ),
       },

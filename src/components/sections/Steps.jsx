@@ -80,12 +80,12 @@ export default function Steps() {
               description={content.texts.steps.cards.card3.cardDescription}
               animation
             />
-            <HowItWorksCard
+            {/* <HowItWorksCard
               number={content.texts.steps.cards.card4.stepNumber}
               title={content.texts.steps.cards.card4.cardTitle}
               description={content.texts.steps.cards.card4.cardDescription}
               animation
-            />
+            /> */}
           </div>
         </div>
       </SectionWrapper>
