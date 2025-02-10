@@ -103,7 +103,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO CRIMINAL EM RESENDE - RJ",
+      miniTag: "ADVOGADO CRIMINALISTA EM RESENDE - RJ",
       title: (
         <h1 className="mb-[16px]">
           Sua defesa
